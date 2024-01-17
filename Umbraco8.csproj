@@ -2787,6 +2787,7 @@
     <Content Include="Views\AboutUs.cshtml" />
     <Content Include="Views\Home.cshtml" />
     <Content Include="Views\Main.cshtml" />
+    <Content Include="Views\web.config" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
